@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: GangHood
 title: 小蝦米闯江湖
 date: 2004-02-14 02:14:00.000000000 +00:00
 ---
