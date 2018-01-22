@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 title: 关于站长
 date: 2004-02-14 15:32:24.000000000 +09:00
 ---
