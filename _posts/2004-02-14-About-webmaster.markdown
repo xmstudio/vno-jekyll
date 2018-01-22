@@ -4,8 +4,7 @@ title: 关于站长
 date: 2004-02-14 15:32:24.000000000 +09:00
 ---
 
-| 关于本站           |                                               |
-|  About Webmaster  |                                               |
+| 关于本站      |  About Webmaster                              |
 | ------------ | ---------------------------------------------------|
 | OneV's Den   | [http://onevcat.com](http://onevcat.com)           |
 | July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
