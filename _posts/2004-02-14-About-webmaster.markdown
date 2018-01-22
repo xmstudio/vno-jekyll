@@ -37,4 +37,4 @@ About log
 
 打赏作者
 ```
-如果觉得作者文章不错，请作者喝杯咖啡！
+![](https://github.com/xmstudio/xmstudio.github.io/blob/master/assets/images/PAY.jpg)
