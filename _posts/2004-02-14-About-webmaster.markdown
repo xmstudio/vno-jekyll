@@ -19,7 +19,7 @@ date: 2004-02-14 15:32:24.000000000 +09:00
 
 #### 网站更新日志
 
-[My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
+这里记录网站的点点滴滴:
 
 | 日期    | 描述                                                |
 | ------------ | ---------------------------------------------------|
