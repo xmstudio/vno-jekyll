@@ -1,14 +1,14 @@
 ---
-layout: GangHood
-title: 小蝦米闯江湖
-date: 2004-02-14 02:14:00.000000000 +00:00
+layout: post
+title: Hello World - Vno
+date: 2016-02-16 15:32:24.000000000 +09:00
 ---
 
-#### What's this站长简介
+#### What's this
 
 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-#### Usage网站简介
+#### Usage
 
 ```bash
 $ git clone https://github.com/onevcat/vno-jekyll.git your_site
@@ -39,27 +39,8 @@ You could replace the background and avatar image in `assets/images` folder to c
 | July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
 | Harry Lee    | [http://qiuqi.li](http://qiuqi.li)                 |
 
-> 更新日志 If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
+> If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
 
 #### License
 
 Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
