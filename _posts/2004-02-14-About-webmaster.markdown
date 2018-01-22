@@ -8,13 +8,9 @@ date: 2004-02-14 15:32:24.000000000 +09:00
 
 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-#### Usage
+#### 关于站长
 
 ```bash
-$ git clone https://github.com/onevcat/vno-jekyll.git your_site
-$ cd your_site
-$ bundler install
-$ bundler exec jekyll serve
 网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等
 ```
 
