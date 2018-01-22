@@ -1,35 +1,17 @@
 ---
-layout: post
-title: 蝦米闯江湖了
+layout: About webmaster
+title: 关于站长
 date: 2004-02-14 15:32:24.000000000 +09:00
 ---
 
 #### 站长简介
 
-传说中有个小蝦米.
-
-#### 网站简介
-
 ```bash
-$ git clone https://github.com/onevcat/vno-jekyll.git your_site
-$ cd your_site
-$ bundler install
-$ bundler exec jekyll serve
+网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等…
+
 ```
 
-Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
-
-For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
-
-#### 更新日志
-
-All configuration could be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
-
-#### 关于我们
-
-You could replace the background and avatar image in `assets/images` folder to change them.
-
-#### 更新日志
+#### 网站更新日志
 
 [My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
 
@@ -39,7 +21,7 @@ You could replace the background and avatar image in `assets/images` folder to c
 | July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
 | Harry Lee    | [http://qiuqi.li](http://qiuqi.li)                 |
 
-> If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
+> 作品展示
 
 #### License
 
