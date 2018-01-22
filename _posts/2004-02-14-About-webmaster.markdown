@@ -1,5 +1,5 @@
 ---
-layout: About webmaster
+layout: about
 title: 关于站长
 date: 2004-02-14 15:32:24.000000000 +09:00
 ---
@@ -11,10 +11,11 @@ date: 2004-02-14 15:32:24.000000000 +09:00
 #### Usage
 
 ```bash
-$ 网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等
+$ git clone https://github.com/onevcat/vno-jekyll.git your_site
 $ cd your_site
 $ bundler install
 $ bundler exec jekyll serve
+网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等
 ```
 
 Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
