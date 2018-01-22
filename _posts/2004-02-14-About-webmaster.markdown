@@ -4,14 +4,14 @@ title: 关于站长
 date: 2004-02-14 15:32:24.000000000 +09:00
 ---
 
-#### 
+#### What's this
 
-.
+[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-#### 站长简介
+#### Usage
 
 ```bash
-$ 网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等…
+$ 网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等
 $ cd your_site
 $ bundler install
 $ bundler exec jekyll serve
@@ -29,7 +29,7 @@ All configuration could be done in `_config.yml`. Remember you need to restart t
 
 You could replace the background and avatar image in `assets/images` folder to change them.
 
-#### 网站更新日志
+#### Sites using Vno
 
 [My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
 
@@ -39,7 +39,7 @@ You could replace the background and avatar image in `assets/images` folder to c
 | July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
 | Harry Lee    | [http://qiuqi.li](http://qiuqi.li)                 |
 
-> 作品展示If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
+> If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
 
 #### License
 
