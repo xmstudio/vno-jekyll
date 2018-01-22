@@ -4,12 +4,30 @@ title: 关于站长
 date: 2004-02-14 15:32:24.000000000 +09:00
 ---
 
+#### 
+
+.
+
 #### 站长简介
 
 ```bash
-网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等…
-
+$ 网络游侠，江湖中的小蝦米，生于鹅城，现居羊城。出生年间不详，爱好广泛。涉及之广，如软件使用、设计、游泳、爬山、音乐等…
+$ cd your_site
+$ bundler install
+$ bundler exec jekyll serve
 ```
+
+Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
+
+For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
+
+#### Configuration
+
+All configuration could be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
+
+#### Background image and avatar
+
+You could replace the background and avatar image in `assets/images` folder to change them.
 
 #### 网站更新日志
 
@@ -21,7 +39,7 @@ date: 2004-02-14 15:32:24.000000000 +09:00
 | July Tang    | [http://blog.julytang.xyz](http://onevcat.com)     |
 | Harry Lee    | [http://qiuqi.li](http://qiuqi.li)                 |
 
-> 作品展示
+> 作品展示If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
 
 #### License
 
