@@ -3,9 +3,9 @@ title: 小蝦米
 subtitle: 蝦米工作室创始人
 welcome_message: Welcome to our Studio.
 description: Attitude decides everything, details determine success or failure.<br>态度决定一切,细节决定成败.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://xmstudio.xyz">@小蝦米</a>
 
-url: "http://vno.onevcat.com"
+url: "http://xmstudio.xyz"
 
 permalink: /:year/:month/:title/
 
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: 小蝦米
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: 
+    github: 
+    twitter: 
+    gplus: 
+    mail: 38836357@QQ.com
 
 # Google Analytics
 ga:
