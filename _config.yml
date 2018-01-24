@@ -23,6 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: GangHood, description: 蝦米江湖, url: 'http://ganghood.lofter.com/'}
+    - {title: 虾客风云, description: 虾客风云, url: 'http://blog.sina.com.cn/u/6457618367'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
